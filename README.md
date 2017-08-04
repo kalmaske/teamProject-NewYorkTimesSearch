@@ -1,1 +1,1 @@
-# teamProject1-NewYorkTimesSearch
+# NYT-Search
